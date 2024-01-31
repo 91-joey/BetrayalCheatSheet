@@ -207,7 +207,7 @@ class BetrayalTable extends React.Component {
                 <tbody>
                 <tr>
                     <BetrayalTableCell img={'assets/locations/1transport.png'} alt={'Transport'} description={""} id={'t10'} colourID={this.state.selected[TABLE_COL_SIZE]}/>
-                    <BetrayalTableCell img={'assets/encounters/aisling/1transport.png'} alt={'Transport'} description={"Double-Veiled Weapons and Jewellery"} id={'t11'} colourID={this.state.selected[TABLE_COL_SIZE + 1]}/>
+                    <BetrayalTableCell img={'assets/encounters/aisling/1transport.png'} alt={'Transport'} description={"双重隐匿武器&首饰"} id={'t11'} colourID={this.state.selected[TABLE_COL_SIZE + 1]}/>
                     <BetrayalTableCell img={'assets/encounters/cameria/1transport.png'} alt={'Transport'} description={"1 Timeworn Unique"} id={'t12'} colourID={this.state.selected[TABLE_COL_SIZE + 2]}/>
                     <BetrayalTableCell img={'assets/encounters/elreon/1transport.png'} alt={'Transport'} description={"1/2/3 Unique Weapons"} id={'t13'} colourID={this.state.selected[TABLE_COL_SIZE + 3]}/>
                     <BetrayalTableCell img={'assets/encounters/gravicius/1transport.png'} alt={'Transport'} description={"Stacks of Div Cards"} id={'t14'} colourID={this.state.selected[TABLE_COL_SIZE + 4]}/>
